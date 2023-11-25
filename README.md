@@ -1,12 +1,12 @@
 # Data Scientist & Business Analyst
 
 ## Technical Skills:
--Databases: Oracle, Teradata, SQL-Server, MySQL, Postgresql, MongoDB, DynamoDB
--Big Data Components: Hadoop, MapReduce, YARN, Hive, Kafka, Impala, Hue, HBase and Spark (Core, Spark SQL)
--Programming Languages: Python, SQL, Tableau
--Operating Systems: Windows, Unix, Linux
--Tools: Docker, JIRA, Github and Bitbucket
--Business Statistics, Inferential Statistics, Machine Learning, Regression, Decision Tree, Bagging, Random Forest, Boosting, Ensemble Techniques, & Model Tuning
+- Databases: Oracle, Teradata, SQL-Server, MySQL, Postgresql, MongoDB, DynamoDB								       		
+- Big Data Components: Hadoop, MapReduce, YARN, Hive, Kafka, Impala, Hue, HBase and Spark (Core, Spark SQL)			        		
+- Programming Languages: Python, SQL, Tableau
+- Operating Systems: Windows, Unix, Linux
+- Tools: Docker, JIRA, Github and Bitbucket
+- Business Statistics, Inferential Statistics, Machine Learning, Regression, Decision Tree, Bagging, Random Forest, Boosting, Ensemble Techniques, & Model Tuning
 
 ## Education
 - Certificate, DSBA | The University of Texas at Austin (_Dec. 2023_)								       		
