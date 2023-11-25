@@ -1,6 +1,6 @@
 # Data Scientist & Business Analyst
 
-#### Technical Skills:
+## Technical Skills:
 -Databases: Oracle, Teradata, SQL-Server, MySQL, Postgresql, MongoDB, DynamoDB
 -Big Data Components: Hadoop, MapReduce, YARN, Hive, Kafka, Impala, Hue, HBase and Spark (Core, Spark SQL)
 -Programming Languages: Python, SQL, Tableau
