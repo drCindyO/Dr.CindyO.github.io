@@ -26,48 +26,51 @@
 - Validated user requirements are supported by the database schema design
 - Designed and develops entities and attributes model descriptions and definitions and ensures that conflicts in descriptions and definitions are resolved
 - Designs, develops and maintains the subject area models (integrated,analytical/dimensional)
-- Responsibled for developing information architectures and data models; creating ad hoc queries, stored procedures, and programming scripts with SQL; and preparing high level analysis reports with SSRS, Tableau and Excel
+- Responsibled for developing information architectures and data models; creating ad hoc queries, stored procedures, and programming scripts with SQL; and preparing high level analysis reports with SSRS, Tableau 
+   and Excel
 - Created Tableau dashboard for displaying monthly inventory analysis and supporting logical data designs/models by reviewing with Business stewards
 - Created source to target mapping at the element level including specifications for data integrity, referential integrity in support of the Actuarial Finance Systems
 - Utilized SAS, and other software, to provide ad hoc reporting, tables and listings and graphs for member eligibility data, regulatory submissions, Risk Based Monitoring, and publications
-- Utilized data visualization tools to provide an easy to understand interface for end users to quickly identify key themes within Data and utilizied SSIS for ETL data modeling, data migration, integration, and analysis
-- Worked with member eligibility data, demographic data, claims (Medical, Dental,Pharmacy) data, premiums data by pulling from data warehouse and generating day-to-day reports in support of Actuarial Finance department for pricing,
-catastrophic actuarial analysis and other purposes
+- Utilized data visualization tools to provide an easy to understand interface for end users to quickly identify key themes within Data and utilizied SSIS for ETL data modeling, data migration, integration, and 
+  analysis
+- Worked with member eligibility data, demographic data, claims (Medical, Dental,Pharmacy) data, premiums data by pulling from data warehouse and generating day-to-day reports in support of Actuarial Finance 
+  department for pricing, catastrophic actuarial analysis and other purposes
 
 ## Projects
-**EXPLORATORY DATA ANALYSIS; June 25, 2023
+**EXPLORATORY DATA ANALYSIS; June 25, 2023**
 -Performed exploratory data analysis using python libraries such as Numpy, Pandas, Seaborn and matplotlib to provide insights for Foodhub
 -Foodhub: food aggregator company looking to get an idea about the demand of different restaurants which will help them in enhancing their customer experience
 -Visualized and analyzed the data and was able to provide insights such as the most profitable cuisines and restaurants, delivery trends during weekends and weekdays and lowest total order time
 -Provided recommendations on how to improve ratings and delivery service
 
-**STATISTICAL INFERENCE AND HYPOTHESIS TESTING WITH PYTHON; July 30, 2023
+**STATISTICAL INFERENCE AND HYPOTHESIS TESTING WITH PYTHON; July 30, 2023**
 -Performed statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express)
 - Utilized python libraries including Numpy, Pandas, Seaborn, Matplotlib and Scipy
 - Visualized the data, conducted exploratory data analysis and conducted hypothesis testing to address the statistical concerns
 - The issues addressed include the decision on which landing page is better, concluding whether language affects the choice of landing page, and deciding which of the pages has a higher conversion rate
 
-  **LINEAR REGRESSION MODEL WITH PYTHON; Aug.27, 2023
+  **LINEAR REGRESSION MODEL WITH PYTHON; Aug.27, 2023**
   -Built a linear regression model to predict the price of used phones/tablets and identify the influencing factors
   -Utilized python libraries including numpy, pandas, matplotlib, seaborn, sklearn and statsmodels in order to train the data to identify final linear regression model
   -Key factors that influence pricing were identified and recommendations were offered on how profit can be maximize to benefit the business
 
-  **LOGISTIC REGRESSION MODEL WITH PYTHON; Sep.24, 2023
+  **LOGISTIC REGRESSION MODEL WITH PYTHON; Sep.24, 2023**
   -Built Logistic regression model and decision tree models to predict whether or not a booking will be canceled and identify influencing factors
   - Built a decision tree from the data set, pre-pruned by grid search hyper-parameter tuning and post pruned using minimal cost complexity pruning
   - Identified the key factors influencing the booking status and offered recommendations on policies that can maximize profit in the event of a cancelation
  
-    **ENSEMBLE TECHNIQUES (BAGGING, BOOSTING AND STACKING WITH PYTHON); Oct.15, 2023
-    -Built various machine learning models including bagging classifier, random forest classifier, adaboost, Gboost, Xgboost and Stacking classifier models to predict whether or not a visa application will be certified
+    **ENSEMBLE TECHNIQUES (BAGGING, BOOSTING AND STACKING WITH PYTHON); Oct.15, 2023**
+    -Built various machine learning models including bagging classifier, random forest classifier, adaboost, Gboost, Xgboost and Stacking classifier models to predict whether or not a visa application will be 
+      certified
     - Utilized python libraries including numpy, pandas, matplotlib, seaborn, sklearn and statsmodels
     - Built models from the data, after which the hyper parameters were tuned to get the model with the best performance
    
-    **MODEL TUNING: OVERSAMPLING, UNDERSAMPLING, HYPERPARAMETER TUNING AND PIPELINE BUILDING; Nov.05; 2023
+    **MODEL TUNING: OVERSAMPLING, UNDERSAMPLING, HYPERPARAMETER TUNING AND PIPELINE BUILDING; Nov.05; 2023**
     -Built and tuned six ensemble models to predict the failures of wind turbines and save maintenance cost
     -Performed undersampling and oversampling, tuned the models, identified the best model and built a pipeline to productionalize the final model
     -Identified most important features of the model and offered some recommendations for saving maintenance cost
 
-    **UNSUPERVISED LEARNING: KMEANS CLUSTERING AND HIERARCHICAL CLUSTERING OF STOCK SECURITIES; Nov.16, 2023
+    **UNSUPERVISED LEARNING: KMEANS CLUSTERING AND HIERARCHICAL CLUSTERING OF STOCK SECURITIES; Nov.16, 2023**
     -Clustered various stock securities based on their Price change, Cash ratio, EPS, P/E ratios etc using Kmeans clustering and hierarchical clustering algorithms on python
     -Utilized the average distortion and silhouette scores to estimate the best number of clusters for K means clustering
     -Utilized cophenetic correlations and dendograms to determine the best way to hierarchically cluster the data
