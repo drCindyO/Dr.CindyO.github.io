@@ -78,7 +78,7 @@
 
   
 
-    ## Contacts
+## Contacts
   - Email: Coffoha@gmail.com 
   - Social:
      - www.linkedin.com/in/drcindyo
