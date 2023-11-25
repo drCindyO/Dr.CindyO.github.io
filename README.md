@@ -82,7 +82,7 @@
   - Email: Coffoha@gmail.com 
   - Social:
      - www.linkedin.com/in/drcindyo
-     - ps://twitter.com/Dr_CindyO						       		
+     - https://twitter.com/Dr_CindyO						       		
   
     
 
