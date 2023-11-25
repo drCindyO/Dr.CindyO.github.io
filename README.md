@@ -80,7 +80,8 @@
 
     ## Contacts
   - Email: Coffoha@gmail.com 
-  - Social: www.linkedin.com/in/drcindyo      https://twitter.com/Dr_CindyO						       		
+  - Social: www.linkedin.com/in/drcindyo
+            https://twitter.com/Dr_CindyO						       		
   
     
 
