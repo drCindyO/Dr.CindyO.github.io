@@ -44,20 +44,20 @@
 - Provided recommendations on how to improve ratings and delivery service
 
 **STATISTICAL INFERENCE AND HYPOTHESIS TESTING WITH PYTHON; July 30, 2023**
--Performed statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express)
-- Utilized python libraries including Numpy, Pandas, Seaborn, Matplotlib and Scipy
+- Performed statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express)							       		
+- Utilized python libraries including Numpy, Pandas, Seaborn, Matplotlib and Scipy			        		
 - Visualized the data, conducted exploratory data analysis and conducted hypothesis testing to address the statistical concerns
 - The issues addressed include the decision on which landing page is better, concluding whether language affects the choice of landing page, and deciding which of the pages has a higher conversion rate
 
   **LINEAR REGRESSION MODEL WITH PYTHON; Aug.27, 2023**
-  -Built a linear regression model to predict the price of used phones/tablets and identify the influencing factors
-  -Utilized python libraries including numpy, pandas, matplotlib, seaborn, sklearn and statsmodels in order to train the data to identify final linear regression model
-  -Key factors that influence pricing were identified and recommendations were offered on how profit can be maximize to benefit the business
-
+  - Built a linear regression model to predict the price of used phones/tablets and identify the influencing factors
+  - Utilized python libraries including numpy, pandas, matplotlib, seaborn, sklearn and statsmodels in order to train the data to identify final linear regression model
+  - Key factors that influence pricing were identified and recommendations were offered on how profit can be maximize to benefit the business					       		
+  
   **LOGISTIC REGRESSION MODEL WITH PYTHON; Sep.24, 2023**
-  -Built Logistic regression model and decision tree models to predict whether or not a booking will be canceled and identify influencing factors
+  - Built Logistic regression model and decision tree models to predict whether or not a booking will be canceled and identify influencing factors
   - Built a decision tree from the data set, pre-pruned by grid search hyper-parameter tuning and post pruned using minimal cost complexity pruning
-  - Identified the key factors influencing the booking status and offered recommendations on policies that can maximize profit in the event of a cancelation
+  - Identified the key factors influencing the booking status and offered recommendations on policies that can maximize profit in the event of a cancelation								       		
  
     **ENSEMBLE TECHNIQUES (BAGGING, BOOSTING AND STACKING WITH PYTHON); Oct.15, 2023**
     -Built various machine learning models including bagging classifier, random forest classifier, adaboost, Gboost, Xgboost and Stacking classifier models to predict whether or not a visa application will be 
