@@ -60,21 +60,23 @@
 - Identified the key factors influencing the booking status and offered recommendations on policies that can maximize profit in the event of a cancelation								       		
  
 **ENSEMBLE TECHNIQUES (BAGGING, BOOSTING AND STACKING WITH PYTHON); Oct.15, 2023**
-    -Built various machine learning models including bagging classifier, random forest classifier, adaboost, Gboost, Xgboost and Stacking classifier models to predict whether or not a visa application will be 
-      certified
-    - Utilized python libraries including numpy, pandas, matplotlib, seaborn, sklearn and statsmodels
-    - Built models from the data, after which the hyper parameters were tuned to get the model with the best performance
+- Built various machine learning models including bagging classifier, random forest classifier, adaboost, Gboost, Xgboost and Stacking classifier models to predict whether or not a visa application will be 
+      certified							       		
+- Utilized python libraries including numpy, pandas, matplotlib, seaborn, sklearn and statsmodels			        		
+- Built models from the data, after which the hyper parameters were tuned to get the model with the best performance
    
 **MODEL TUNING: OVERSAMPLING, UNDERSAMPLING, HYPERPARAMETER TUNING AND PIPELINE BUILDING; Nov.05; 2023**
-    -Built and tuned six ensemble models to predict the failures of wind turbines and save maintenance cost
-    -Performed undersampling and oversampling, tuned the models, identified the best model and built a pipeline to productionalize the final model
-    -Identified most important features of the model and offered some recommendations for saving maintenance cost
+- Built and tuned six ensemble models to predict the failures of wind turbines and save maintenance cost							       		
+- Performed undersampling and oversampling, tuned the models, identified the best model and built a pipeline to productionalize the final model			        		
+- Identified most important features of the model and offered some recommendations for saving maintenance cos
 
-    **UNSUPERVISED LEARNING: KMEANS CLUSTERING AND HIERARCHICAL CLUSTERING OF STOCK SECURITIES; Nov.16, 2023**
-    -Clustered various stock securities based on their Price change, Cash ratio, EPS, P/E ratios etc using Kmeans clustering and hierarchical clustering algorithms on python
-    -Utilized the average distortion and silhouette scores to estimate the best number of clusters for K means clustering
-    -Utilized cophenetic correlations and dendograms to determine the best way to hierarchically cluster the data
-    -Conducted recommendations on how to improve sock picking, diversification of portfolios and generally, the financial services business for Trade and Ahead
+**UNSUPERVISED LEARNING: KMEANS CLUSTERING AND HIERARCHICAL CLUSTERING OF STOCK SECURITIES; Nov.16, 2023**
+- Clustered various stock securities based on their Price change, Cash ratio, EPS, P/E ratios etc using Kmeans clustering and hierarchical clustering algorithms on python							       		
+- Utilized the average distortion and silhouette scores to estimate the best number of clusters for K means clustering 			        		
+- Utilized cophenetic correlations and dendograms to determine the best way to hierarchically cluster the data
+- Conducted recommendations on how to improve sock picking, diversification of portfolios and generally, the financial services business for Trade and Ahead
+
+  
 
     ## Contacts
     -Email: Coffoha@gmail.com
