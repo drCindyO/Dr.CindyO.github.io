@@ -38,10 +38,10 @@
 
 ## Projects
 **EXPLORATORY DATA ANALYSIS; June 25, 2023**
--Performed exploratory data analysis using python libraries such as Numpy, Pandas, Seaborn and matplotlib to provide insights for Foodhub
--Foodhub: food aggregator company looking to get an idea about the demand of different restaurants which will help them in enhancing their customer experience
--Visualized and analyzed the data and was able to provide insights such as the most profitable cuisines and restaurants, delivery trends during weekends and weekdays and lowest total order time
--Provided recommendations on how to improve ratings and delivery service
+- 	Performed exploratory data analysis using python libraries such as Numpy, Pandas, Seaborn and matplotlib to provide insights for Foodhub							       		
+- Foodhub: food aggregator company looking to get an idea about the demand of different restaurants which will help them in enhancing their customer experience 			        		
+- Visualized and analyzed the data and was able to provide insights such as the most profitable cuisines and restaurants, delivery trends during weekends and weekdays and lowest total order time
+- Provided recommendations on how to improve ratings and delivery service
 
 **STATISTICAL INFERENCE AND HYPOTHESIS TESTING WITH PYTHON; July 30, 2023**
 -Performed statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express)
