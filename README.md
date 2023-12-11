@@ -2,7 +2,7 @@
 
 ## Technical Skills:
 - Databases: Oracle, Teradata, SQL-Server, MySQL, Postgresql, MongoDB, DynamoDB								       		
-- Big Data Components: Hadoop, MapReduce, YARN, Hive, Kafka, Impala, Hue, HBase and Spark (Core, Spark SQL)			        		
+- Big Data Components: Hadoop, MapReduce, YARN, Hive, Kafka, Impala, Hue, HBase and Spark (Core, Spark SQL)			     
 - Programming Languages: Python, SQL, Tableau
 - Operating Systems: Windows, Unix, Linux
 - Tools: Docker, JIRA, Github and Bitbucket
@@ -12,29 +12,6 @@
 - Certificate, DSBA | The University of Texas at Austin (_Dec. 2023_)								       		
 - PharmD, Pharmacy  | LECOM School of Pharmacy (_May 2018_)	 			        		
 - B.S., Microbiology | The University of Maryland (_May 2009_)
-
-## Work Experience
-**Data Scientist @ CVS HEALTH (_Oct. 2022 - Nov.2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Developed scalable databases capable of ETL processess using SQL and Spark
-- Translated business propositions into quantitative queries and implemented the necessary data
-- Utilized MongoDB to generate NoSQL databases that generate collection of data from distict sources
-- Participated in creating tables, join conditions, partitioning tables, correlated subqueries, views, sequences, nested queries, and synonyms for business application development 
-
-**Data Modeler/BI Developer/ETL Developer @ Swift Learn IT Solutions, Columbia MD (_Feb. 2020 - Aug. 2022_)**
-- Worked with appropriate teams to design, plan, implement, evaluate and enhance system architecture
-- Validated user requirements are supported by the database schema design
-- Designed and develops entities and attributes model descriptions and definitions and ensures that conflicts in descriptions and definitions are resolved
-- Designs, develops and maintains the subject area models (integrated,analytical/dimensional)
-- Responsibled for developing information architectures and data models; creating ad hoc queries, stored procedures, and programming scripts with SQL; and preparing high level analysis reports with SSRS, Tableau 
-   and Excel
-- Created Tableau dashboard for displaying monthly inventory analysis and supporting logical data designs/models by reviewing with Business stewards
-- Created source to target mapping at the element level including specifications for data integrity, referential integrity in support of the Actuarial Finance Systems
-- Utilized SAS, and other software, to provide ad hoc reporting, tables and listings and graphs for member eligibility data, regulatory submissions, Risk Based Monitoring, and publications
-- Utilized data visualization tools to provide an easy to understand interface for end users to quickly identify key themes within Data and utilizied SSIS for ETL data modeling, data migration, integration, and 
-  analysis
-- Worked with member eligibility data, demographic data, claims (Medical, Dental,Pharmacy) data, premiums data by pulling from data warehouse and generating day-to-day reports in support of Actuarial Finance 
-  department for pricing, catastrophic actuarial analysis and other purposes
 
 ## Projects
 **EXPLORATORY DATA ANALYSIS; June 25, 2023**
@@ -78,12 +55,6 @@
 
   
 
-## Contacts
-  - Email: Coffoha@gmail.com 
-  - Social:
-     - www.linkedin.com/in/drcindyo
-     - https://twitter.com/Dr_CindyO						       		
-  
     
 
   
